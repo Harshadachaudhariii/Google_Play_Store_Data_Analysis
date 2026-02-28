@@ -3,17 +3,13 @@
 ## Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on the Google Play Store dataset to uncover trends in app categories, ratings, installs, pricing models, and user behavior.
-
 The objective is to clean real-world messy data and extract meaningful business insights from it.
 
----
 
 ## Dataset Information
-
 * Source: Google Play Store public dataset
 * Records: 10,000+ apps
 * Features include:
-
   * App Name
   * Category
   * Rating
@@ -25,7 +21,6 @@ The objective is to clean real-world messy data and extract meaningful business 
   * Content Rating
   * Android Version
 
----
 
 ## Data Cleaning & Preprocessing
 
@@ -38,7 +33,6 @@ The dataset contained multiple inconsistencies:
 * Handled missing values logically
 * Cleaned Android version ranges
 
----
 
 ## Exploratory Data Analysis
 
@@ -67,7 +61,6 @@ The following analyses were performed:
 * Target audience segmentation
 * Popularity trends by age group
 
----
 
 ## Key Insights
 
@@ -77,7 +70,6 @@ The following analyses were performed:
 * Higher-priced apps do not necessarily guarantee higher ratings.
 * Majority of apps fall in the 4.0–4.5 rating range.
 
----
 
 ## Technologies Used
 
@@ -88,7 +80,6 @@ The following analyses were performed:
 * Seaborn
 * Jupyter Notebook
 
----
 
 ## Conclusion
 
